@@ -1,0 +1,8 @@
+@media screen and (max-width: 599px) {
+  .landingcontent-grid {
+    margin: 20% 0 5% 5%;
+  }
+  .landingcontent-grid-title {
+      display: none;
+  }
+}

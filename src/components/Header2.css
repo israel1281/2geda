@@ -1,0 +1,25 @@
+@media screen and (max-width: 599px) {
+    .header2-button {
+        display: none;
+    }
+    .auth-menu {
+        display: contents;
+        margin-left: 80%;
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .auth-menu {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+}
+
+@media screen and (min-width: 1200px) {
+    .auth-menu {
+        display: none;
+    }
+}

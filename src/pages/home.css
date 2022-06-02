@@ -1,0 +1,13 @@
+.ant-menu-item-selected {
+    color: #FF8A15 !important;
+    background-color: #4F0DA3 !important;
+  }
+
+.ant-menu-item-selected:hover {
+    color: #FF8A15 !important;
+    background-color: #4F0DA3 !important;
+  }
+
+  ::-webkit-scrollbar {
+    width: 0;
+  }
